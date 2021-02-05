@@ -1,5 +1,5 @@
 {
-  "name": "met-museum-2019",
+  "name": "smithsonian-2020",
   "version": "1.0.0",
   "description": "portfolio page",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/visualizedata/met-museum-2019.git"
+    "url": "git+https://github.com/visualizedata/smithsonian-2020.git"
   },
-  "author": "Zach Krall",
+  "author": "Richard The",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/visualizedata/met-museum-2019/issues"
+    "url": "https://github.com/visualizedata/smithsonian-2020/issues"
   },
-  "homepage": "https://github.com/visualizedata/met-museum-2019#readme",
+  "homepage": "https://github.com/visualizedata/met-museum-2020#readme",
   "dependencies": {
   },
   "devDependencies": {
