@@ -9,6 +9,14 @@
       "image": "P3_3.png"
     },
     {
+      "title": "Fantastic Beasts from Asian Art",
+      "title_full": "Fantastic Beasts from Asian Art",
+      "description": "The first quantitative project collaborated with the Smithsonian. Fantastic beasts from Asian art and where to find them? This project is designed for people, especially children, who are interested in Asian art. For there are so many unreal mythical creatures in Asia, Such as Dragon, Taotie, Phoenix, and Serpent. By exploring the “animal” tag of the Freer Gallery collections, I want to introduce some interesting stories of animals, especially those mythical creatures.  I am strongly inspired by a childish hand-drawn style, Hope that added some playfulness to this work.",
+      "url": "https://tongtongluu.github.io/asian-animals/index.html",
+      "author": "Qinglu Lu",
+      "image": "P1_1.png"
+    },
+    {
       "title": "Invisible Artifacts",
       "title_full": "Exploring the on view and in storage artifacts across the different Smithsonian institutions.",
       "description": "This project aims to show the difference in the number of museum artifacts that are in an exhibit versus in storage across various institutions under the Smithsonian umbrella. Museums are often limited in what they can show by the amount of floor space, leaving the visitors to see just the tip of the iceberg. By exploring the different institutions and the topic categorization of the artifacts, patrons interested in the Smithsonian can get a better understanding of what the museums have to offer and what they’ve chosen to promote. Hovering over the different “pinnacles” reveals the percent of artifacts from that particular museum that are either on view (above water) or in storage (below water).",
@@ -49,6 +57,14 @@
       "image": "FNpic1.png"
     },
     {
+      "title": "What Makes a Woman?",
+      "title_full": "What Makes a Woman?",
+      "description": "For this visualization I wanted to show how women in the Smithsonian are represented through the topics they are tagged with. I looked at the portraits of women in The National Portrait Gallery. I chose to look at portraits because historically portraits were only painted of prominent figures and I wanted to see which women were classified as important enough to have a portrait made of them and why. The visualization is split up into a graph showing a count of the number of portraits with each topic and a gallery of portraits split up by year.",
+      "url": "https://isabelstoddart.github.io/MS1QuantitativeData/",
+      "author": "Isabel Stoddart",
+      "image": "finalpic1.png"
+    },
+    {
       "title": "Faceless Nudes",
       "title_full": "Faceless Nudes",
       "description": "An Interactive map and visualization tool for exploring The Smithsonian Museum of Natural History's Mineral Sciences collection. The Smithsonian Museum of Natural History's Mineral Sciences collection consists of hundreds of thousands of gems and minerals. The museum's digital archives provided geolocation points and other data for the 656 items found in the interactive map featured here. The visualization at bottom left portions out the collection into a set of common colors, and allows you to explore the material accordingly. This involved creating a node script that analyzed the the text descriptions of each gem and sorting them by key words matched to 20 different color groups. With numerous ways of describing something that is \"yellowish green\", this helped to make the data more accessible while also giving the user a general idea of the over all shape, or in this case, \"color\" of the data. All items link directly to the collection record on the museum's website. This is especially helpful for the many items to which image rights applied. I learned over time that the structure of the Smithsonian's returned API data required a more adaptive approach to the data analysis than the rigid criteria I had begun with. For example, looking for the carat weight value in the same exact location of the data would often return \"null\" values. Generalizing the search queries, in addition to creating a placeholder graphic for items with rights-managed images allowed me to broaden my dataset as much as possible without encountering any \"null\" values or other missing pieces. This was especially important for the map, where the sparseness of the available data could quickly become an issue.",
@@ -81,6 +97,14 @@
       "image": "quipu1.png"
     },
     {
+      "title": "Sally Ride",
+      "title_full": "Sally Ride",
+      "description": "This project is a visual biography of the life of the first American woman to go to space, Sally Ride. The project focuses on her first mission in detail, and incorporates other parts of her life in a condensed manner. In addition to text, images of objects belonging to Sally Ride (courtesy of the Smithsonian open access API) as well as pictures of the mission (courtesy to NASA) help to enrich the storytelling. The biography centers around a timeline that is interactive and allows users to keep track of which part of her life they are reading about (as well as allows users to click on specific years of interest).",
+      "url": "https://github.com/ripleycleghorn/msdv-major-studio/tree/master/assignment_03a",
+      "author": "Ripley Cleghorn",
+      "image": "sally_ride1.png"
+    },
+    {
       "title": "Git Constitution",
       "title_full": "Git Constitution",
       "description": "",
@@ -103,6 +127,14 @@
       "url": "",
       "author": "Tiffany France",
       "image": "m2-corridos.png"
+    },
+    {
+      "title": "Gender Tagging",
+      "title_full": "Gender Tagging",
+      "description": "",
+      "url": "",
+      "author": "Tiffany France",
+      "image": "gender-home.png"
     },
     {
       "title": "A History of Aerospace Industry",
