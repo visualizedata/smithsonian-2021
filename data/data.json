@@ -7,12 +7,164 @@
       "url": "https://tongtongluu.github.io/WhatMakesABuddha/",
       "author": "Qinglu Lu",
       "image": "P3_3.png"
+    },
+    {
+      "title": "Invisible Artifacts",
+      "title_full": "Exploring the on view and in storage artifacts across the different Smithsonian institutions.",
+      "description": "This project aims to show the difference in the number of museum artifacts that are in an exhibit versus in storage across various institutions under the Smithsonian umbrella. Museums are often limited in what they can show by the amount of floor space, leaving the visitors to see just the tip of the iceberg. By exploring the different institutions and the topic categorization of the artifacts, patrons interested in the Smithsonian can get a better understanding of what the museums have to offer and what they’ve chosen to promote. Hovering over the different “pinnacles” reveals the percent of artifacts from that particular museum that are either on view (above water) or in storage (below water).",
+      "url": "",
+      "author": "Amina Brown",
+      "image": "image1.png"
+    },
+    {
+      "title": "A Manifestation of Masks",
+      "title_full": "Exploring the Smithsonian Archive of Mexican Masks with an Interactive Mosaic.",
+      "description": "This project proposes a unique user-driven way of browsing a museum collection in the digital space. Mexican Masks in the Smithsonian Institution Archives were chosen as the subject matter because humans have extremely high recognition of faces even when presented at lower resolution as seen in the mosaic. It’s worth noting that the allusion of having a mask masked by another mask was also considered as a design choice. A Mosaic was created using the base p5js library in order to realize these goals. Elements of interactivity were introduced so that users can select any of the ‘small images’ to force a redraw where that image was the ‘main mosaic image’. This allows individuals to jump through different images of museum items based on their desire to manifest realistic mask mosaics. Furthermore a bounded scroll window was created so that users can zoom in to the mosaic to view the ‘smaller images’ at full resolution.The result is a digital experience that allows users to browse the collection of masks through the lens of their curiosity.",
+      "url": "https://dalbed349.github.io/MSproject3/",
+      "author": "Dallas Alberti",
+      "image": "MSFinalScreenshot.jpg"
+    },
+    {
+      "title": "The Face Value of Portraits",
+      "title_full": "A Visualization about the number of collections & size differences of portraits with a gender keyword (male and female)",
+      "description": "",
+      "url": "https://inhyelee-data.github.io/MajorStudio1/3.FinalVisualization/",
+      "author": "Inhye Lee",
+      "image": "FaceValue1.png"
+    },
+    {
+      "title": "Faceless Nudes",
+      "title_full": "Faceless Nudes",
+      "description": "I discovered while searching the Smithsonian API that many of Carl Newman's nude drawings are faceless. I decided to expand this project after getting comments on this discovery to see if this pattern holds true with other artist’s nudes. This project is an observation piece uncovering the many drawings of faceless nudes in the Smithsonian. It touches on the objectification at hand by comparing faceless nudes to highly detailed breasts. I hope this project makes people think about this topic and maybe discover even more faceless nudes outside of the Smithsonian.",
+      "url": "https://isabelstoddart.github.io/FacelessNudes/",
+      "author": "Isabel Stoddart",
+      "image": "FNpic1.png"
+    },
+    {
+      "title": "Faceless Nudes",
+      "title_full": "Faceless Nudes",
+      "description": "An Interactive map and visualization tool for exploring The Smithsonian Museum of Natural History's Mineral Sciences collection. The Smithsonian Museum of Natural History's Mineral Sciences collection consists of hundreds of thousands of gems and minerals. The museum's digital archives provided geolocation points and other data for the 656 items found in the interactive map featured here. The visualization at bottom left portions out the collection into a set of common colors, and allows you to explore the material accordingly. This involved creating a node script that analyzed the the text descriptions of each gem and sorting them by key words matched to 20 different color groups. With numerous ways of describing something that is \"yellowish green\", this helped to make the data more accessible while also giving the user a general idea of the over all shape, or in this case, \"color\" of the data. All items link directly to the collection record on the museum's website. This is especially helpful for the many items to which image rights applied. I learned over time that the structure of the Smithsonian's returned API data required a more adaptive approach to the data analysis than the rigid criteria I had begun with. For example, looking for the carat weight value in the same exact location of the data would often return \"null\" values. Generalizing the search queries, in addition to creating a placeholder graphic for items with rights-managed images allowed me to broaden my dataset as much as possible without encountering any \"null\" values or other missing pieces. This was especially important for the map, where the sparseness of the available data could quickly become an issue.",
+      "url": "https://jamestroxel.github.io/MS-1-Interactive-Project/",
+      "author": "James Troxel",
+      "image": "ByColor.png"
+    },
+    {
+      "title": "Defining Culture",
+      "title_full": "Exploring the Smithsonian’s Cultural Collections Open Access metadata.",
+      "description": "",
+      "url": "http://justinkraus.github.io/si_meta/",
+      "author": "Justin Kraus",
+      "image": "asschist.png"
+    },
+    {
+      "title": "The Eyes of The Smithsonian",
+      "title_full": "The Eyes of The Smithsonian",
+      "description": "",
+      "url": "https://leeallennyc.github.io/Major-Studio-1/Final/",
+      "author": "Lee Kuczewski",
+      "image": "EOS_001.png"
+    },
+    {
+      "title": "Quipu",
+      "title_full": "Quipu",
+      "description": "This visualization is a graphical representation of one of the Quipu in the Smithsonian collection. Quipu (also written Khipu) were an ancient record keeping device created in Central and South America by indigenous Andeans, prior to Spanish colonization. Of the twenty or so in the Smithsonian collection, this was the only one that was also included in the external Khipu Database Project, run by Harvard researcher Gary Urton. This external database allowed me to use the data in an excel format to create the visualization. The aim of the project is exploratory in nature, and hopefully aids in a basic understanding of how these recording devices used knots to keep track of numeric data. Eventually I would love to include more of the qualitative aspects of these devices, such as cord material and color.",
+      "url": "https://github.com/ripleycleghorn/msdv-major-studio/tree/master/assignment_01d",
+      "author": "Ripley Cleghorn",
+      "image": "quipu1.png"
+    },
+    {
+      "title": "Git Constitution",
+      "title_full": "Git Constitution",
+      "description": "",
+      "url": "https://shmanzar.github.io/major-studio/project_03_interactive/final/index.html",
+      "author": "Sherry Manzar",
+      "image": "index.png"
+    },
+    {
+      "title": "Museum of Waste",
+      "title_full": "Museum of Waste",
+      "description": "This project is showing you things that haven’t received enough attention and highlight. Firstly, I scraped all the works throughout Smithsonian Library. For the search queries, the synonyms of ‘WASTE’ were used. I used the synonyms from google synonym search for making ‘search term’. Then tied the garbage icons floating into the pieces having the keywords. Then created a museum comprised of the ‘unwanted object’. The collections of the garbage-like objects are like the images collection like above. As the user scrolls, the objects turns into the anonymous squares as the users used to see the pieces. By showing this visual, this project wants to convey the message that the unwanted objects are seen as mere ‘anonymous’ / ‘unattended’ objects. At the final stage, this visualization eventually creates the museum of ‘waste’ using a visual metaphor of ‘garbage bin’.",
+      "url": "",
+      "author": "Soonk Paik",
+      "image": "mow1.png"
+    },
+    {
+      "title": "Mexican Folk Music",
+      "title_full": "Mexican Folk Music",
+      "description": "",
+      "url": "",
+      "author": "Tiffany France",
+      "image": "m2-corridos.png"
+    },
+    {
+      "title": "A History of Aerospace Industry",
+      "title_full": "Reviewing the trends of aerospace industry (design + innovation) in the past 120 years",
+      "description": "This visualization is focusing on the history of aerospace industry in the past 120 years. The visual content base on numerical and categorical data of aircrafts that have been archived by the Smithsonian Open API, which can give people a review of technological and industrial revolution. Meanwhile, a location-based application with time-based element will bring a detailed analysis to tell a story of the whole industry including how the development trends changed in different time periods.",
+      "url": "https://yujunmjiang.github.io/nasm-interactive/",
+      "author": "Yujun Jiang",
+      "image": "01.jpg"
+    },
+    {
+      "title": "Conservation Status of Avian Species",
+      "title_full": "Conservation Status of Avian Species",
+      "description": "",
+      "url": "",
+      "author": "Zhibang Jiang",
+      "image": "P3_current_hover.png"
     }
   ],
   "students": [
     {
       "name": "Qinglu Lu",
       "url": "https://www.qinglu-lu.com/"
+    },
+    {
+      "name": "Amina Brown",
+      "url": ""
+    },
+    {
+      "name": "Dallas Alberti",
+      "url": "https://dalbed349.github.io/MSproject3/"
+    },
+    {
+      "name": "Inhye Lee",
+      "url": "https://inhyelee-data.github.io/MajorStudio1/3.FinalVisualization/"
+    },
+    {
+      "name": "Isabel Stoddart",
+      "url": "https://isabelstoddart.github.io/FacelessNudes/"
+    },
+    {
+      "name": "James Troxel",
+      "url": "https://jamestroxel.github.io/MS-1-Interactive-Project/"
+    },
+    {
+      "name": "Justin Kraus",
+      "url": "http://justinkraus.github.io/si_meta/"
+    },
+    {
+      "name": "Lee Kuczewski",
+      "url": "https://leeallennyc.github.io/Major-Studio-1/Final/"
+    },
+    {
+      "name": "Ripley Cleghorn",
+      "url": "https://github.com/ripleycleghorn/msdv-major-studio/tree/master/assignment_01d"
+    },
+    {
+      "name": "Sherry Manzar",
+      "url": "https://shmanzar.github.io/major-studio/project_03_interactive/final/index.html"
+    },
+    {
+      "name": "Soonk Paik",
+      "url": ""
+    },
+    {
+      "name": "Tiffany France",
+      "url": ""
+    },
+    {
+      "name": "Yujun Jiang",
+      "url": "https://github.com/yujunmjiang/nasm-interactive"
     }
   ]
 }
