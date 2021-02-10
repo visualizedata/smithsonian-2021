@@ -17,6 +17,14 @@
       "image": "image1.png"
     },
     {
+      "title": "African American heritage & The Smithsonian",
+      "title_full": "African American heritage & The Smithsonian",
+      "description": "",
+      "url": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=142DkxnqpaQtYzlGNL7QBLl_T_0P-PGtPoPH8tMhSm_g&font=Default&lang=en&initial_zoom=2&height=800",
+      "author": "David Malary",
+      "image": "MS-Final-F.Douglass-2.png"
+    },
+    {
       "title": "A Manifestation of Masks",
       "title_full": "Exploring the Smithsonian Archive of Mexican Masks with an Interactive Mosaic.",
       "description": "This project proposes a unique user-driven way of browsing a museum collection in the digital space. Mexican Masks in the Smithsonian Institution Archives were chosen as the subject matter because humans have extremely high recognition of faces even when presented at lower resolution as seen in the mosaic. It’s worth noting that the allusion of having a mask masked by another mask was also considered as a design choice. A Mosaic was created using the base p5js library in order to realize these goals. Elements of interactivity were introduced so that users can select any of the ‘small images’ to force a redraw where that image was the ‘main mosaic image’. This allows individuals to jump through different images of museum items based on their desire to manifest realistic mask mosaics. Furthermore a bounded scroll window was created so that users can zoom in to the mosaic to view the ‘smaller images’ at full resolution.The result is a digital experience that allows users to browse the collection of masks through the lens of their curiosity.",
@@ -125,6 +133,10 @@
     {
       "name": "Dallas Alberti",
       "url": "https://dalbed349.github.io/MSproject3/"
+    },
+    {
+      "name": "David Malary",
+      "url": "https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=142DkxnqpaQtYzlGNL7QBLl_T_0P-PGtPoPH8tMhSm_g&font=Default&lang=en&initial_zoom=2&height=800"
     },
     {
       "name": "Inhye Lee",
