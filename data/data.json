@@ -18,11 +18,19 @@
     },
     {
       "title": "Invisible Artifacts",
-      "title_full": "Exploring the on view and in storage artifacts across the different Smithsonian institutions.",
+      "title_full": "Invisible Artifacts",
       "description": "This project aims to show the difference in the number of museum artifacts that are in an exhibit versus in storage across various institutions under the Smithsonian umbrella. Museums are often limited in what they can show by the amount of floor space, leaving the visitors to see just the tip of the iceberg. By exploring the different institutions and the topic categorization of the artifacts, patrons interested in the Smithsonian can get a better understanding of what the museums have to offer and what they’ve chosen to promote. Hovering over the different “pinnacles” reveals the percent of artifacts from that particular museum that are either on view (above water) or in storage (below water).",
       "url": "https://amina-brown.github.io/major-studio-1/interactive-project/",
       "author": "Amina Brown",
       "image": "image1.png"
+    },
+    {
+      "title": "Pushing Buttons",
+      "title_full": "Pushing Buttons",
+      "description": "This project investigates the collection of pinback buttons in the National Museum of African American History and Culture. The buttons are displayed on a timeline to show the visual impact they have and how political and social justice movements have used the medium from the mid-1950s on.",
+      "url": "https://amina-brown.github.io/major-studio-1/qualitative-data/",
+      "author": "Amina Brown",
+      "image": "pushing_buttons.png"
     },
     {
       "title": "African American heritage & The Smithsonian",
@@ -168,7 +176,7 @@
     },
     {
       "name": "Amina Brown",
-      "url": ""
+      "url": "https://amina-brown.github.io/"
     },
     {
       "name": "Dallas Alberti",
