@@ -5,6 +5,8 @@ Partnering with the Smithsonian Institute, students visualize and interpret data
 * [Met Museum Collaboration 2019](https://github.com/visualizedata/met-museum-2019)
 * [Smithsonian Collaboration 2020](https://github.com/visualizedata/smithsonian-2020)
 
+---
+
 ### The Smithsonian Institute, Open Access
 * Ryan King
 * Effie Kapsalis
