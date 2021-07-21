@@ -1,7 +1,7 @@
 # Smithsonian Institute Partnership 2021
 Partnering with the Smithsonian Institute, students visualize and interpret data published by the Institute under their [Open Access Policy](https://github.com/metmuseum/openaccess).  
 
-## Previous Collaborations: 
+#### Previous Collaborations: 
 * [Met Museum Collaboration 2019](https://github.com/visualizedata/met-museum-2019)
 * [Smithsonian Collaboration 2020](https://github.com/visualizedata/smithsonian-2020)
 
