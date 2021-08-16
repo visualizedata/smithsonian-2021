@@ -13,9 +13,9 @@
 var app = new Vue({
   el: '#app',
   data: {
-    site_url: 'https://parsons.nyc/met-museum-2019',
+    site_url: 'https://parsons.nyc/smithsonian-2021',
     department: 'MS Data Visualization',
-    page_title: 'The Smithsonian Institute Partnership 2020',
+    page_title: 'The Smithsonian Institute Partnership 2021',
     projects: [],
     students: [],
     shareModalVisible: false,
