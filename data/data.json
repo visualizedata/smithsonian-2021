@@ -7,13 +7,11 @@
       "url": "https://angelica-hom.github.io/ ",
       "author": "Angelica Hom",
       "image": "HERO.png"
-    }，
+    },
     {
       "title": "Student Name",
       "title_full": "SHARKS!: an educational game into the mysteries of sharks",
-      "description":"
-Why do we go to scientific museums? And why do scientists still study sharks and dinosaurs that are far away from our lives? We believe that the purpose of these museums is to inspire young generations of the audience to the wonders of science and encourage them to study science and engineering. If a kid is inspired to study science by going to a museum about sharks, he or she might cure cancer one day. The sharks are a special exhibition and knowledge collection at the Smithsonian Institution's National Museum of Natural History, Ocean Portal development. We create an interactive game, which serves as an educational and healing journey of self-discovery among sharks. The visitors can choose their desired shark character and learn about their habits and properties, as well as navigating around an ocean of knowledge. They can encounter different characters as well as discover different knowledge boards. The effects of human activities are also integrated as one of the elements to support environmental justice.
-",
+      "description":"Why do we go to scientific museums? And why do scientists still study sharks and dinosaurs that are far away from our lives? We believe that the purpose of these museums is to inspire young generations of the audience to the wonders of science and encourage them to study science and engineering. If a kid is inspired to study science by going to a museum about sharks, he or she might cure cancer one day. The sharks are a special exhibition and knowledge collection at the Smithsonian Institution's National Museum of Natural History, Ocean Portal development. We create an interactive game, which serves as an educational and healing journey of self-discovery among sharks. The visitors can choose their desired shark character and learn about their habits and properties, as well as navigating around an ocean of knowledge. They can encounter different characters as well as discover different knowledge boards. The effects of human activities are also integrated as one of the elements to support environmental justice.",
       "url": "https://doerlbh.github.io/smithsonian/interactive/",
       "author": "Baihan Lin",
       "image": "HERO.png"
@@ -21,9 +19,12 @@ Why do we go to scientific museums? And why do scientists still study sharks and
   ],
   "students": [
     {
+      "name": "Angelica Hom",
+      "url": "https://angelica-hom.github.io/"
+    }
+    {
       "name": "Baihan Lin",
-      "url": "https://doerlbh.github.io/smithsonian/interactive/
-"
+      "url": "https://doerlbh.github.io/smithsonian/interactive/"
     }
   ]
 }
