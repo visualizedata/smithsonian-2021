@@ -1,18 +1,99 @@
 {
   "projects": [
     {
-      "title": "Student Name",
+      "title": "Worth a Thousand Words",
       "title_full": "Worth a Thousand Words",
       "description": "The National Museum of African American History and Culture’s mission is “to promote and highlight the contributions of African Americans”. Its diverse array of artifacts come from a long history of both triumphs and injustices. If one were to analyze a collection of one object type (instruments, clothing, etc.) from this museum, could that collection alone tell a story of racial justice?During the 19th century, the abolitionist movement in America coincided with the advancements of photography technology. This resulted in recently-freed African Americans having easier access to cameras and gaining control of self-representation in a fight against racist stereotypes. African Americans could finally present and immortalize their best selves.This project explored the titles of the photography collection through an interactive word tree. Once users click to the end of a title structure, the corresponding photograph is revealed. This visualization offers a poetic approach to exploring the NMAAHC’s photography collection that leads users to other thematic analyses of the collection. What can we learn from the juxtaposition of the Smithsonian’s title structure versus the intention of the photo? How did the relationship between the photographer/photographed evolve? Is there further analysis to explore from the photos of the “unidentified”?",
       "url": "https://angelica-hom.github.io/ ",
       "author": "Angelica Hom",
       "image": "HERO.png"
-    }
+    },
+    {
+      "title": "SHARKS!",
+      "title_full": "SHARKS!: an educational game into the mysteries of sharks",
+      "description":"Why do we go to scientific museums? And why do scientists still study sharks and dinosaurs that are far away from our lives? We believe that the purpose of these museums is to inspire young generations of the audience to the wonders of science and encourage them to study science and engineering. If a kid is inspired to study science by going to a museum about sharks, he or she might cure cancer one day. The sharks are a special exhibition and knowledge collection at the Smithsonian Institution's National Museum of Natural History, Ocean Portal development. We create an interactive game, which serves as an educational and healing journey of self-discovery among sharks. The visitors can choose their desired shark character and learn about their habits and properties, as well as navigating around an ocean of knowledge. They can encounter different characters as well as discover different knowledge boards. The effects of human activities are also integrated as one of the elements to support environmental justice.",
+      "url": "https://doerlbh.github.io/smithsonian/interactive/",
+      "author": "Baihan Lin",
+      "image": "Shark.png"
+    },
+    {
+      "title": "ON EXHIBITION: The Wandering Version",
+      "title_full": "ON EXHIBITION: The Wandering Version",
+      "description":"This project is an experimental 3D web interface and unsupervised algorithm for navigating museum artifacts across multi-dimensional metadata. In the current prototype, visitors can discover ‘nearby’ objects defined in the sense of date, theme, and location across 17 museums and galleries of the Smithsonian Institution. The algorithm is adaptable to both human-curated and machine-generated metadata. As an attempt to create an immersive and unique digital experience, this project is a counterexample to the notion that digital experience is seamless and 'infinite-scroll-able', and celebrates the materiality in the museum collections metadata.",
+      "url": "https://jessiejessje.github.io/major-studio-1/interactive/",
+      "author": "Jessie Han",
+      "image": "_jessie-screenshots-interactive.png"
+    },
+    {
+      "title": "What’s in a Name?",
+      "title_full": "What’s in a Name?",
+      "description":"The Smithsonian’s National Portrait Gallery has a mission of portraying the people who have shaped America’s history, development and culture. “What’s in a Name?” is an exploration of the mission of the NPG, focusing on the individuals in the gallery that are portrayed in New York. When sketching and designing this project I was curious to discover who exactly made it into the National Portrait Gallery, what they may have accomplished, and if there were demographic similarities across the individuals in the collection. In particular, I hoped to potentially highlight notable individuals or any disparities in the collection while also giving users the ability to view the gallery and portraits themselves. Drawing inspiration from the piece “A Sort of Joy” I added a layer of abstraction to my project by particularly focusing on the first names of the individuals in the collection and the number of times they may appear. In a future iteration of this project I hope to add gender identity as an element with which users can interact when they explore the gallery. ",
+      "url": "https://zhurk746.github.io/MAJOR_STUDIO_1/Interactive_Project/new/",
+      "author": "Kasey Zhuravlev",
+      "image": "hero_Kasey.png"
+    },
+    {
+      "title": "Unnamed",
+      "title_full": "Unnamed ",
+      "description":"Africa is the world's second largest and most populous continent. With 54 countries, 2,000 distinct languages and 3,000 tribes, it is a diverse continent.How might we, using the internet, show the diversity, creativity and growth of art from a continent that is 3x the size of the United States and has the world's largest youth population? How might we do so in a way that acknowledges colonial history while recognizing the artists painting its future.With 99% of its artifacts having unnamed artists, the Open Access Collection of the National Museum of African Art struggles to show the diversity of the continent and its creativity.By exploring what we might learn about these artists using their nationalities and medium, this project shows the gaps in the collection. It aims to help museums improve how their collection is managed, stored and made available online. It will help them ensure they are truly representative and respectful of the cultures they come from.Sources: Scientific American, CS Monitor",
+      "url": "",
+      "author": "Olanrewaju Odunowo",
+      "image": "Frame Ola.png"
+    },
+    {
+      "title": "Political and Activist Ephemera at the Smithsonian",
+      "title_full": "Political and Activist Ephemera at the Smithsonian:Temporary Objects with Permanent Impact ",
+      "description":"Ephemera is defined in the Oxford English Dictionary as ‘things that exist or are used or enjoyed for only a short time.’ In this collection at the Smithsonian, the particular ephemera shown here were utilized in various political and activist movements throughout history, making their intended impermanence a juxtaposition to what they have contributed to. Buttons, posters, pamphlets, fliers, and more have been used throughout history to disseminate persuasive ideas and contribute to change in society. Different decades brought different popularity to the types of ephemera that were utilized. Were fliers popular during the 60s and 70s because of their ease of distribution? Were placards more prominent in recent years because of the global marches that flooded the streets during the black lives matter protests? A few prominent movements in history are represented in this Smithsonian dataset, and after clicking the arrow to reveal the second visualization we can see how each movement is represented by the ephemera that helped shape them. Temporary, tangible objects that were once used as persuasive media become timeless, priceless memorabilia decades after they’ve left their mark.",
+      "url": "https://m0llyc00k.github.io/major-studio-1/Final_v2/index.html",
+      "author": "Molly Cook",
+      "image": "Cook_hero_image.png"
+    },
+    {
+      "title": "Project Title: How We Gaze",
+      "title_full":  "Project Title: How We Gaze",
+      "description":"How We Gaze is a meta-gallery that shows how individuals gaze at pieces of artwork. The gazes hosted in the gallery are crowd-sourced - individuals are invited to view pieces of artwork, and see their gaze visualized in real-time. Each gaze is visualized as an animation, as well as a blurred out aggregate image that represents a participants’ viewing session.How We Gaze works best on Google Chrome on Desktop, and is currently not optimized for mobile.",
+      "url": "https://omarnema.com/parsons-studio-1/qual/gaze-study-svelte/public/",
+      "author": "Omar Nema",
+      "image": "hero_Omar.png"
+    },
+    {
+      "title": "On Exhibit",
+      "title_full":  "On Exhibit:What's in the Smithsonian: the world's largest museum, education, and research complex?",
+      "description":"This project visualizes all Open Access artifacts that are on exhibit in any of the museums part of the Smithsonian Institution. The data and images are from the Smithsonian API, and include only the items with CC0 license. As of November 3rd, 2021, this search yields over 3300 results, spanning 3000BCE - 2010s. I wanted to focus on the items that are exhibited, digitalized and part of the open access API, as this gives an interesting perspective on the restrictions museums face in making their collections more accessible to the public. In a way, I also wanted to create an online tour of the available artifacts in each museum. Users can choose a museum to explore and see everything available in that museum (based on the data in the API) chronologically. This not only allows users to see the subset of artifacts that are displayed in the physical space of the museums, but also get to explore virtually a subset of these same artifacts, effectively creating an online tour of the museum - something ever more important in the times of COVID where a lot of constraints exist on public gatherings.",
+      "url": "https://ykmsdv.github.io/onexhibit/ ",
+      "author": "Yoana Kosturska",
+      "image": "hero_Yoana.png"
+    },
   ],
   "students": [
     {
       "name": "Angelica Hom",
-      "url": "https://angelica-hom.github.io/ "
-    }
+      "url": "https://angelica-hom.github.io/"
+    },
+    {
+      "name": "Baihan Lin",
+      "url": "https://doerlbh.github.io/smithsonian/interactive/"
+    },
+    {
+      "name": "Kasey Zhuravlev",
+      "url": "https://zhurk746.github.io/MAJOR_STUDIO_1/Interactive_Project/new/"
+    },
+    {
+      "name": "Olanrewaju Odunowo",
+      "url": ""
+    },
+    {
+      "name": "Molly Cook",
+      "url": "https://m0llyc00k.github.io/major-studio-1/Final_v2/index.html"
+    },
+     {
+      "name": "Omar Nema",
+      "url": "https://omarnema.com/parsons-studio-1/qual/gaze-study-svelte/public/"
+    },
+     {
+      "name": "Yoana Kosturska",
+      "url": "https://ykmsdv.github.io/onexhibit/"
+    },
+
   ]
 }
