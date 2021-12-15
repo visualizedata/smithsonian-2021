@@ -89,12 +89,12 @@
       "image": "hero_zora.png"
     },
     {
-      "title":"",
-      "title_full":"",
-      "description":"",
-      "url": " ",
+      "title":"Stories of Chinese Jade",
+      "title_full":"Stories of Chinese Jade",
+      "description":" This data visualization project includes 291 jade objects of Chinese culture in the Free Gallery of Art and Arthur M.Sackler Gallery with CC0 media access. This dataset has a lot of interesting data points, such as type(weapon, vessel, or jewelry?), place(different provinces), and culture(different dynasties). I was wondering were there any similarities and differences between these categories? Will they be related to each other? For example, a certain dynasty only likes certain jade products?",
+      "url": "https://kanodesu.github.io/majorstudio-fall21/03%20Interactive/03D%20Final%20design,%20prototype%20and%20presentation/",
       "author": "Wenqin Lu",
-      "image": ""
+      "image": "hero_wenqin.png"
     },
     {
       "title": "Space",
@@ -103,6 +103,22 @@
       "url": "https://gisligudjons.github.io/3D-project/",
       "author": "Gisli Gudjonsson",
       "image": "hero_gisli.png"
+    },
+    {
+      "title": "Design Movements",
+      "title_full":"Design Movements: New perspectives for the Cooper Hewitt collection of design objects",
+      "description":"Design Movements is an interactive visualization of the digitized design objects in the Cooper Hewitt collection. It reinterprets different perspectives of the collection as a whole to provide 'bird's-eye' views of color, form, and place. In looking at color over time, form by frequency, and object origins spatially, users can explore the collection from a new view and draw their own conclusions about what design means to them, and where it may go in the future.",
+      "url": "https://papermashea.github.io/major-studio-1/",
+      "author": "Shea Molloy",
+      "image": "hero_shea.png"
+    },
+    {
+      "title": "Natural vs Synthetic Plastic",
+      "title_full":"Natural vs Synthetic Plastic",
+      "description":"This project is an analysis of design materials used over time at the Cooper Hewitt Smithsonian design museum. Inspired by the “Nature by Design: Plastics” exhibition, this project explores natural and synthetic plastics. What is natural plastic? It is the material harvested via animals, such as: tortoiseshell, leather, and ivory. These materials were being over consumed and endangered many species of animals. To keep up with consumer demand, scientists developed a petroleum based, synthetic material. These materials include: polyester, nylon, and plastic. The use of these materials exploded and ultimately are contributing to our current climate crisis. THis project explored when and how these materials were being used.",
+      "url": "https://jcraig13.github.io/MajorStudio1/InteractiveProject/",
+      "author": "Juliet Craig",
+      "image": "hero_juliet.png"
     }
   ],
   "students": [
@@ -153,11 +169,18 @@
     },
     {
       "name":"Wenqin Lu",
-      "url":""
+      "url":"https://github.com/kanodesu"
     },
     {
       "name":"Gisli Gudjonsson",
       "url":"https://gisligudjons.github.io/"
+    },
+    {
+      "name":"Shea Molloy",
+      "url":"https://papermashea.github.io/major-studio-1/"
+    },
+    { "name":"Juliet Craig",
+      "url":"https://github.com/jcraig13"
     }
   ]
 }
