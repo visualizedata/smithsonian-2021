@@ -14,7 +14,23 @@
       "description":"Why do we go to scientific museums? And why do scientists still study sharks and dinosaurs that are far away from our lives? We believe that the purpose of these museums is to inspire young generations of the audience to the wonders of science and encourage them to study science and engineering. If a kid is inspired to study science by going to a museum about sharks, he or she might cure cancer one day. The sharks are a special exhibition and knowledge collection at the Smithsonian Institution's National Museum of Natural History, Ocean Portal development. We create an interactive game, which serves as an educational and healing journey of self-discovery among sharks. The visitors can choose their desired shark character and learn about their habits and properties, as well as navigating around an ocean of knowledge. They can encounter different characters as well as discover different knowledge boards. The effects of human activities are also integrated as one of the elements to support environmental justice.",
       "url": "https://doerlbh.github.io/smithsonian/interactive/",
       "author": "Baihan Lin",
-      "image": "Shark.png"
+      "image": "sharks.gif"
+    },
+     {
+      "title": "The Natural Food Web: you are what you eat, a network study",
+      "title_full": "The Natural Food Web: you are what you eat, a network study",
+      "description":"Why do we go to scientific museums? And why do scientists still study sharks and dinosaurs that are far away from our lives? We believe that the purpose of these museums is to inspire young generations of the audience to the wonders of science and encourage them to study science and engineering. If a kid is inspired to study science by going to a museum about sharks, he or she might cure cancer one day. The sharks are a special exhibition and knowledge collection at the Smithsonian Institution's National Museum of Natural History, Ocean Portal development. We create an interactive game, which serves as an educational and healing journey of self-discovery among sharks. The visitors can choose their desired shark character and learn about their habits and properties, as well as navigating around an ocean of knowledge. They can encounter different characters as well as discover different knowledge boards. The effects of human activities are also integrated as one of the elements to support environmental justice.",
+      "url": "https://doerlbh.github.io/smithsonian/quantitative/",
+      "author": "Baihan Lin",
+      "image": "foodweb.gif"
+    },
+     {
+      "title": "Suzie’s World: From Fabrics to Fashion",
+      "title_full": "Suzie’s World: From Fabrics to Fashion",
+      "description":"This project is a journey through the original watercolor and gouache design drawings by the legendary and prolific textile designer Suzie Zuzek (1920 - 2011). Between 1962 and 1985, Zuzek created over 1,500 designs for Key West Hand Print Fabrics in Key West, Florida, which were used by Lilly Pulitzer. Via the amazing collections from the Cooper Hewitt Smithsonian Design Museum. We aim to showcase the common motifs and style evolutions. To bridge between fabrics and fashion, we create an interface to both showcase the textile design as a full size wallpaper to create an immersive experience as well as creating hand-drawn fashion figures that give the audience a sense of how these fabrics feel like on the fashion design. To disentangle the effect ofSuzie Zuzek’s fabrics on the fashion vs. the Lilly Pulitzer fashion style itself, we drew these fashion figures from scratch and varied the styles significantly from the original Lilly Pulitzer brand. We hope the study reveals the nature and scope of Zuzek's artistic contribution to the iconic Pulitzer style.",
+      "url": "https://doerlbh.github.io/smithsonian/qualitative/",
+      "author": "Baihan Lin",
+      "image": "suzie.gif"
     },
     {
       "title": "ON EXHIBITION: The Wandering Version",
@@ -177,7 +193,7 @@
     },
     {
       "name":"Shea Molloy",
-      "url":"https://papermashea.github.io/major-studio-1/"
+      "url":"https://papermashea.github.io/smi/"
     },
     { "name":"Juliet Craig",
       "url":"https://github.com/jcraig13"
