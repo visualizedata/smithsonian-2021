@@ -38,7 +38,7 @@
       "description":"This project is an experimental 3D web interface and unsupervised algorithm for navigating museum artifacts across multi-dimensional metadata. In the current prototype, visitors can discover ‘nearby’ objects defined in the sense of date, theme, and location across 17 museums and galleries of the Smithsonian Institution. The algorithm is adaptable to both human-curated and machine-generated metadata. As an attempt to create an immersive and unique digital experience, this project is a counterexample to the notion that digital experience is seamless and 'infinite-scroll-able', and celebrates the materiality in the museum collections metadata.",
       "url": "https://jessiejessje.github.io/major-studio-1/interactive/",
       "author": "Jessie Han",
-      "image": "hero_Jessie.png"
+      "image": "hero_jessie.png"
     },
     {
       "title": "What Makes NMAH?",
@@ -46,7 +46,7 @@
       "description":"A typographic bar chart / data-driven logo design for the National Museum of American History. Each rectangle represents one of the 44 cultural tags used by NMAH in describing its artifacts and is proportional to how frequently the corresponding cultural tag appears.",
       "url": "https://jessiejessje.github.io/major-studio-1/quantitative_data/v2/",
       "author": "Jessie Han",
-      "image": "hero_Jessie2.png"
+      "image": "hero_jessie2.png"
     },
     {
       "title": "The World Created by Helen Hyde",
@@ -54,7 +54,7 @@
       "decription":"Helen Hyde(1868 – 1919) is an American artist, who was deeply inspired by the Japonisme art movement and has produced hundreds of woodblock prints reflecting non-Western experiences. This visualization deconstructs artworks in the Helen Hyde collection from Smithsonian American Art Museum, providing a lens to observe and analyze how non-Western life was depicted from a Western perspective.",
       "url": "https://jessiejessje.github.io/major-studio-1/qualitative_data/",
       "author": "Jessie Han",
-      "image": "hero_Jessie3.png"
+      "image": "hero_jessie3.png"
     },
     {
       "title": "What’s in a Name?",
